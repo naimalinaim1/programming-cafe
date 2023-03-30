@@ -2,7 +2,7 @@ import React from "react";
 
 const Header = () => {
   return (
-    <header className="w-[96%] max-w-[1440px] mx-auto">
+    <header className="w-[98%] max-w-[1440px] mx-auto">
       <div className="navbar p-0 bg-base-100 border-b-2 border-base-400 py-4">
         <div className="flex-1">
           <a href="/" className="text-xl font-bold hover:text-[#6047EC]">

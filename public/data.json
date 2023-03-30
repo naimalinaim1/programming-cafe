@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "author_name": "Mr. Raju",
+    "title": "How to get your first job as a self-taught programmer",
+    "author_image": "https://s3-alpha-sig.figma.com/img/2fc1/8b06/52fc4e1cd6ca45524a376c0074e685a7?Expires=1681084800&Signature=DrhB5l5YTOPikdqaI6yOh4~I9CslkQ4YxlEQatJal2Hpcz~LRN9S-v~cwPyCxSBkC5kg123PIi~cACLk-nuox2A8HtsJJpTP0buaAXe7s7zd2iOgwNB9MRRan0Z2y-8uOh87enTqHqAWmzg3Kqf4ZGvlG94zaOMwrUB3HYquhs2MdRxdViuOnQxeLONdZN2JvaidwP3FT1qkVGmiNa6dOjj6EDW5P-dSa1vA23-gr6wjaCDpcmNpdESO3-zTO-AZXVTGckXWjVdiNp7ui~efz~QRoAfImJ~bwiU7aI239Uv-lOMuw9HsUBTUv1o3mgUUGzj-f2PbYoAw04a3-S43DQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "cover_image": "https://s3-alpha-sig.figma.com/img/3693/5dcf/f79dff0324c966b5479581b5b3d5d1e6?Expires=1681084800&Signature=k~A3nxG8CjWNLa4Ig6yvaWPwn13vENKZENLUgT6JcD-HUyGs6JWLA4y5Tpwf8ASnsHGPZczR7ut8SSv7Leyu2iCc-tbRVxr33LKlUWmAyUYfFUm12Defk1I6Env4Vl81LQGbKn7N~cX5fEAXFZ2OFP2u7Ry2UdTQfgpwjBBWJFYA64J5fNZ6gPxv3tHrVdtYjjFDP02aXjUB5CP90jllmPHOfOP-rOocmCGY6xb31TsBq9GBEyT~X1M4KGBY3vOyJxSc5Co0LbfcaSgVWuWJFXlkR5Fk79qF6IUMu5s-aiq0a3lxOMkiVkg9Em~C7oLg0m-09o5~qFIPmiHzgu5kMg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "time": 5,
+    "publish_date": "Mar 14 (4 Days ago)"
+  },
+  {
+    "id": 2,
+    "author_name": "Mrs. Setara",
+    "title": "How to get your first job as a self-taught programmer",
+    "author_image": "https://s3-alpha-sig.figma.com/img/6b0e/d4ba/126500fe0124ac23184733631311a153?Expires=1681084800&Signature=HFcM486jwcEWoXZaB7spcQMqKmmwtnjl04gsY6P6e3EeJZK1EiPRs8L2hnJT4VdMGLD3rBJsKhSZ6sSik4ZODLOYDSx8JbrPzbLbQJvvEeuCZ7M4JMm2yZXci0PL7m9MW2h27F-qrn5d7V4-urgSDbOdasjxl9d96AXI63b2Eavz4zwLLRsjg8kZUmQPOyjwWKjpdnsPbLlA3diIO7PevMOqclVb2V7v0KhLxscH3jA3fXhlZEp4ktTPrxHwzwEDH-E6-lOVYmUZG8fkZE0v-~oJ5WU2s-dXyZdr5N~Gc6Wa5MraVTAw4CiDBwA64w~3vQzbppC-tXaF5ksHGUHbKg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "cover_image": "https://s3-alpha-sig.figma.com/img/2a93/e829/d767f43742af2b4fc8088cc67eaaa242?Expires=1681084800&Signature=e6kYl7yVGn2w3ICb8MyLCBht-AWannjvj4Vg39f~U6CiwgNfuddnAwzgeBim0-N4AdwXFeKxVSULo-HrcUFfOgvNwt31BsknmUM24GyzJcgjZhG3NlgBG-DkedJei-lYdtN~5SCd7fFfr4Nf2-1h9k9y6PbDPoK29YndsLgN3gs56spGH6orS3QAZxBshjCCpkRGvQPebO8mQFg09F1CJvEldpOW~sU02VD7gO8l2S6wwgP2IP0QToWtF7ni~Xbza3t1e9b4q4sub9gHtm6OIetmw3pb6Adn0mkr5ZzHacNS5wTyKcCRF5PoAob4uA9Vm66T~KhYTG0isNFY0cZ0dQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "time": 10,
+    "publish_date": "Mar 14 (4 Days ago)"
+  },
+  {
+    "id": 3,
+    "author_name": "Mina Mostofa",
+    "title": "How to get your first job as a self-taught programmer",
+    "author_image": "https://s3-alpha-sig.figma.com/img/6b0e/d4ba/126500fe0124ac23184733631311a153?Expires=1681084800&Signature=HFcM486jwcEWoXZaB7spcQMqKmmwtnjl04gsY6P6e3EeJZK1EiPRs8L2hnJT4VdMGLD3rBJsKhSZ6sSik4ZODLOYDSx8JbrPzbLbQJvvEeuCZ7M4JMm2yZXci0PL7m9MW2h27F-qrn5d7V4-urgSDbOdasjxl9d96AXI63b2Eavz4zwLLRsjg8kZUmQPOyjwWKjpdnsPbLlA3diIO7PevMOqclVb2V7v0KhLxscH3jA3fXhlZEp4ktTPrxHwzwEDH-E6-lOVYmUZG8fkZE0v-~oJ5WU2s-dXyZdr5N~Gc6Wa5MraVTAw4CiDBwA64w~3vQzbppC-tXaF5ksHGUHbKg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "cover_image": "https://s3-alpha-sig.figma.com/img/5423/0352/4aa87ef040ab7e513b1b790d9b1c6743?Expires=1681084800&Signature=YY0oTojPwFNh0xnA7ljHom1SianChNZrV55WKEl2BN8RnCHaFDEKnG7sG~NVyKs6iXMRUShvhTtvvUe4GmqFNOzudeowF8M0cE~jLK2zsNrPk4mz11D8wkNTCHnXJ0aBvO5JKAdR9CYuUg993giyCj9oBSH6HyWDBV90hO5hg043Ynd3IDwI-cCR5mIIY4XMVmFgpavi~QmUZITvLDvFW22~mQ-ylouhBMSjeWCpARyXTc1OOvIQxDssHRxCSyxHGttWD7T5ApHaLS8XlnKvcBhQ62SmUMPkxUP6SQGcR3j48Drm8-gG6K77LLmZICGd2krHyE5LTPnlaznAd90TMw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "time": 12,
+    "publish_date": "Mar 14 (4 Days ago)"
+  },
+  {
+    "id": 4,
+    "author_name": "Mr. Selim",
+    "title": "What is programming???",
+    "author_image": "https://s3-alpha-sig.figma.com/img/5d97/603a/37d56efbd814dda56c284d562fa3afc2?Expires=1681084800&Signature=KsbOJQCrvX-ajTheaAdaFd2CNjCjHZO4nEGyLTKSuXL4vvRMLTVBz3uoffQqNi22g~P2PBTExBYLdwBSgLIqRsDEy3aYfutKSVq-KvlmghQtZl4O0mRJbMmVzFutBKgHjne5mf-UjQXMA1JIROd4IftQUTvxa5puuSBRGDblNkoE86FK0Y8FoXjFXWggBGfzAvHbwP-Je9usy66FWgHMCaNP0S6QUSBlaBTZAMqyIv-SlHMlYKrbqzvTNRVr7~CEz1zVU9ENrdZwamzrGHAAWlCt-2Yhu5AMuuGs5JiZxorSvfzMJLW85NIcPjX7685ne3EQJIDltOgo9OARhCL99w__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4",
+    "cover_image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJo2UIUzQup5w6ok6Gx-JJ0YrYOo934FXzBQ&usqp=CAU",
+    "time": 8,
+    "publish_date": "Mar 14 (4 Days ago)"
+  }
+]
