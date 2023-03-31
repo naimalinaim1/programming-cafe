@@ -21,10 +21,11 @@ const Cards = () => {
 
   const notify = () => toast("It is already added");
   const bookmarkedItem = (newItem) => {
-    setBookmarked([...bookmarked, newItem]);
     const checkAdded = bookmarked.find((item) => item === newItem);
     if (checkAdded) {
       notify();
+    } else {
+      setBookmarked([...bookmarked, newItem]);
     }
   };
 
