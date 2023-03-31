@@ -1,4 +1,4 @@
-import Cards from "./components/Header/Cards/Cards";
+import Cards from "./components/Cards/Cards";
 import Header from "./components/Header/Header";
 
 function App() {

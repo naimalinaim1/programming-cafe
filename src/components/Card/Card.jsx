@@ -1,6 +1,6 @@
 import React from "react";
 
-const Card = ({ item }) => {
+const Card = ({ item, readTimeCount }) => {
   const { author_name, title, author_image, cover_image, time, publish_date } =
     item;
   return (
@@ -48,8 +48,10 @@ const Card = ({ item }) => {
       <p className="text-gray-500 my-4 text-lg">
         #beginners &nbsp; #programming
       </p>
-      <p className="text-primary underline cursor-pointer text-lg">
-        Mark as read
+      <p className="text-primary underline text-lg">
+        <span className="cursor-pointer" onClick={() => readTimeCount(time)}>
+          Mark as read
+        </span>
       </p>
     </div>
   );
