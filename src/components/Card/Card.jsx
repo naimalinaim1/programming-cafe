@@ -1,6 +1,6 @@
 import React from "react";
 
-const Card = ({ item, readTimeCount }) => {
+const Card = ({ item, readTimeCount, bookmarkedItem }) => {
   const { author_name, title, author_image, cover_image, time, publish_date } =
     item;
   return (
@@ -24,7 +24,11 @@ const Card = ({ item, readTimeCount }) => {
         </div>
         <p className="text-gray-400 text-lg flex items-center gap-1">
           <span>{time} min read</span>
-          <span className="cursor-pointer hover:text-gray-600" title="bookmark">
+          <span
+            onClick={() => bookmarkedItem(title)}
+            className="cursor-pointer hover:text-gray-600"
+            title="bookmark"
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
