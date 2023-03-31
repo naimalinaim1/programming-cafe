@@ -44,7 +44,7 @@ const Cards = () => {
           ))}
         </div>
         {/* side bar */}
-        <div className="sticky top-5 h-screen">
+        <div className="md:sticky md:top-5 mb-12 md:mb-0 md:h-screen">
           <Cart readTime={readTime} bookmarked={bookmarked} />
         </div>
       </div>

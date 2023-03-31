@@ -1,3 +1,4 @@
+import Blog from "./components/Blog/Blog";
 import Cards from "./components/Cards/Cards";
 import Header from "./components/Header/Header";
 
@@ -6,6 +7,7 @@ function App() {
     <>
       <Header />
       <Cards />
+      <Blog />
     </>
   );
 }
